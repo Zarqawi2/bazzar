@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="facebook_app_id">192559520178150</string>
+<string name="app_name">com.example.bazzar_app</string>
+<string name="fb_login_protocol_scheme">fb192559520178150</string>
+<string name="facebook_client_token">56789</string>
+</resources>
